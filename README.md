@@ -20,7 +20,7 @@ Pay attention to the top of the screen. There are two layers on the map: one is 
 
 When I was recording the video, I couldn't hear the audio either from my phone or computer. So at some point, the audio might sound cut off. While playing, you can press empty area of the screen to dismiss, which you can't see this press-to-dimiss in the video.
 
-This demo is showing you the debug version which can generate fake datas: https://youtu.be/56BikBWx-C0
+This demo is showing you the debug version which can generate fake datas: https://youtu.be/N16goXMKiAc (3 minutes)
 
 ### A Few Words
 For me, this project is really big. From idea resorting, how to place buttons, what icons to use, map and small/huge two-layer geo searches, networking, server and particularly audio and video recording/playing stuff. Then the app was rejected three times by AppStore and they asked me provide Terms && Services, Privacy Policy and Rules in the app to prevent sensitive contents, which was a lot of work.
