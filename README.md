@@ -18,8 +18,6 @@ Botton right corner: Navigate user location again and fetch data based on new lo
 
 Pay attention to the top of the screen. There are two layers on the map: one is “Small” level which shows posts within 1.5 miles centered to you, the other “huge” level is for posts within 3 miles. And those two levels don’t share same posts.  
 
-When I was recording the video, I couldn't hear the audio either from my phone or computer. So at some point, the audio might sound cut off. While playing, you can press empty area of the screen to dismiss, which you can't see this press-to-dimiss in the video.
-
 This demo is showing you the debug version which can generate fake datas: https://youtu.be/N16goXMKiAc (3 minutes)
 
 ### A Few Words
