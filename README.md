@@ -1,12 +1,13 @@
-# AHLocalFun
-A description for the iOS app LocalFun
-
 This app is on AppStore [LocalFun](https://itunes.apple.com/us/app/localfun/id1203165607?ls=1&mt=8)
 
 You can use this app to post short audio/video on a map within certain ranges based on your current location. 
 My main idea is to help people expose themselves to their environments through some funny audios and videos.
 
+Test Account: localFunTestUserFB@gmail.com
+Password: localfuntestuserfb
+
 ### Demo
+This demo is showing you the debug version of the app which can generate fake datas: https://youtu.be/N16goXMKiAc (3 minutes)
 
 Some explanation for buttons on the screen:
 
@@ -16,9 +17,8 @@ Bottom middle: You can record audios and videos in there.
 
 Botton right corner: Navigate user location again and fetch data based on new location.
 
-Pay attention to the top of the screen. There are two layers on the map: one is “Small” level which shows posts within 1.5 miles centered to you, the other “huge” level is for posts within 3 miles. And those two levels don’t share same posts.  
+Pay attention to the top of the screen. There are two layers on the map: one is “Small” level which shows posts within 1.5 miles centered to you, the other “Huge” level is for posts within 3 miles. And those two levels don’t share same posts.  
 
-This demo is showing you the debug version which can generate fake datas: https://youtu.be/N16goXMKiAc (3 minutes)
 
 ### A Few Words
 For me, this project is really big. From idea resorting, how to place buttons, what icons to use, map and small/huge two-layer geo searches, networking, server and particularly audio and video recording/playing stuff. Then the app was rejected three times by AppStore and they asked me provide Terms && Services, Privacy Policy and Rules in the app to prevent sensitive contents, which was a lot of work.
