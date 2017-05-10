@@ -5,8 +5,8 @@ My main idea is to help people expose themselves to their environments through s
 
 Test Account: localFunTestUserFB@gmail.com
 Password: localfuntestuserfb
+<img src="https://github.com/ivsall2012/AHLocalFun/blob/master/ScreenShot_2.png">
 
-![alt text](https://github.com/ivsall2012/AHLocalFun/blob/master/ScreenShot_1.png "Screen Shot")
 
 ### Demo
 This demo is showing you the debug version of the app which can generate fake datas: https://youtu.be/N16goXMKiAc (3 minutes)
