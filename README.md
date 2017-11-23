@@ -9,7 +9,9 @@ Password: localfuntestuserfb
 
 
 ### Demo
-This demo is showing you the debug version of the app which can generate fake datas: https://youtu.be/N16goXMKiAc (3 minutes)
+This demo is showing you the debug version of the app which can generate fake datas:
+Youtube: https://youtu.be/N16goXMKiAc (3 minutes)  
+优酷: http://v.youku.com/v_show/id_XMzE3OTgwMzIzNg==.html?spm=a2h3j.8428770.3416059.1
 
 Some explanation for buttons on the screen:
 
